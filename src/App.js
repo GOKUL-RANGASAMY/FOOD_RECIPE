@@ -6,8 +6,7 @@ import DialogContent from "@material-ui/core/DialogContent";
 import DialogTitle from "@material-ui/core/DialogTitle";
 import DialogActions from "@material-ui/core/DialogActions";
 
-// const APP_ID = "a52b4d43";
-// const APP_KEY = "e0e5c667605f5e91d8275c973531b80a";
+
 
 const APP_ID = "b0306898";
 const APP_KEY = "6a4001fc89d1aa595edcc65c6a0e29e8";
